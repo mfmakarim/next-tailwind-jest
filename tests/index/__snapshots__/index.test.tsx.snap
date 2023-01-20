@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home renders a heading 1`] = `
+<div>
+  <div
+    class="text-3xl font-bold"
+  >
+    <h1>
+      Home
+    </h1>
+  </div>
+</div>
+`;
